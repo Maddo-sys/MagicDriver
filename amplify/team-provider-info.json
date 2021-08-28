@@ -1,0 +1,16 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-magictravel-dev-183920-authRole",
+      "UnauthRoleArn": "arn:aws:iam::834100535047:role/amplify-magictravel-dev-183920-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::834100535047:role/amplify-magictravel-dev-183920-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-magictravel-dev-183920-deployment",
+      "UnauthRoleName": "amplify-magictravel-dev-183920-unauthRole",
+      "StackName": "amplify-magictravel-dev-183920",
+      "StackId": "arn:aws:cloudformation:eu-central-1:834100535047:stack/amplify-magictravel-dev-183920/236d8800-035f-11ec-99f8-0a0e3394becc",
+      "AmplifyAppId": "d3jjjkpi8kqp8c",
+      "AuthTriggerTemplateURL": "https://s3.amazonaws.com/amplify-magictravel-dev-183920-deployment/amplify-cfn-templates/auth/auth-trigger-cloudformation-template.json"
+    }
+  }
+}
